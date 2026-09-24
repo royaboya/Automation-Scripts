@@ -3,7 +3,6 @@ Sorts all files inside Downloads folder into subfolders for related filetypes.
 No arguments needed, assumes Windows Host.
 """
 
-
 import shutil
 from pathlib import Path
 
